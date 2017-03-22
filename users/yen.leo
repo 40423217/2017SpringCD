@@ -51,10 +51,10 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170221100209.1"><vh>@edit 20170222.md</vh></v>
-<v t="leo.20170301112616.1"><vh>@edit 20170301.md</vh></v>
+<v t="yen.20170221100209.1"><vh>@edit 2017spring_cd_week1_hw_solvespace&amp;onshape.md</vh></v>
+<v t="leo.20170301112616.1"><vh>@edit 2017spring_cd_week2_hw_solvespace&amp;onshape.md</vh></v>
 <v t="leo.20170301120755.1"><vh>@edit 20170308.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
