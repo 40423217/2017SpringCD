@@ -21,3 +21,6 @@ Author: yen
 
 <p>Part5_小組協同組立Share</p>
 <iframe src="https://player.vimeo.com/video/213788308" width="640" height="447" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/213788308">NFU_MDE_2017SpringCD_MidtermN3_40423217_Part5</a> from <a href="https://vimeo.com/user61170413">40423217</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>Part6_小組協同組立Share</p>
+<iframe src="https://player.vimeo.com/video/213789354" width="640" height="447" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/213789354">NFU_MDE_2017SpringCD_MidtermN3_40423217_Part6.mp4</a> from <a href="https://vimeo.com/user61170413">40423217</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
