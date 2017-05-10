@@ -37,7 +37,29 @@
 &lt;iframe src="https://player.vimeo.com/video/213789354" width="640" height="447" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/213789354"&gt;NFU_MDE_2017SpringCD_MidtermN3_40423217_Part6.mp4&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w9"></category></entry><entry><title>Week 3</title><link href="./week-3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-07:./week-3.html</id><summary type="html">&lt;p&gt;介紹課程大綱
-&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>Solvespace&amp;Onshape四足機械獸 機械腿機構繪製</title><link href="./solvespaceonshapesi-zu-ji-jie-shou-ji-jie-tui-ji-gou-hui-zhi.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./solvespaceonshapesi-zu-ji-jie-shou-ji-jie-tui-ji-gou-hui-zhi.html</id><summary type="html">&lt;p&gt;使用py進行有效率的分組
+
+&lt;p&gt;本週起各組將進行期末協同實習專案規劃與執行，請各組在上課時段準備以&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;oral presentation&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;text presentation&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;theoretical presentation&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;逐步朝期末週 physical presentation 的目標邁進。&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;oral presentation：&lt;/p&gt;
+&lt;p&gt;口語說明進度、規劃細節、分工情形與問題討論等。&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;text presentation：&lt;/p&gt;
+&lt;p&gt;以 github pages 中的 blog 與 Fossil SCM 倉儲 wiki 紀錄每週專題執行情形，&lt;/p&gt;
+&lt;p&gt;並利用 github 與 Fossil SCM 倉儲管理所衍生的檔案。&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;theoretical presentation：&lt;/p&gt;
+&lt;p&gt;利用 Solvespace 、 Onshape 、 V-rep 與 Brython 進行各種系統評估模擬。&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;physical presentation：&lt;/p&gt;
+&lt;p&gt;在期末考週必須完成實體模型製作，並以 videos 展示各階段的準備工作與執行結果。&lt;/p&gt;&lt;/p&gt;</summary><category term="2017Spring_CD_W12"></category></entry><entry><title>Solvespace&amp;Onshape四足機械獸 機械腿機構繪製</title><link href="./solvespaceonshapesi-zu-ji-jie-shou-ji-jie-tui-ji-gou-hui-zhi.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-01:./solvespaceonshapesi-zu-ji-jie-shou-ji-jie-tui-ji-gou-hui-zhi.html</id><summary type="html">&lt;p&gt;使用py進行有效率的分組
 
 &lt;p&gt;使用ethercalc製作簡易的分組表格&lt;/p&gt;
 &lt;p&gt;認識cp950(大五碼)&lt;/p&gt;
