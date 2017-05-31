@@ -1,7 +1,7 @@
 Title: Midterm_test_n3
-Date: 2017-04-19 11:00
+Date: 2017-04-19 11:01
 Category: 40423217
-Tags: w9
+Tags: W10
 Author: yen
 
 使用py進行有效率的分組

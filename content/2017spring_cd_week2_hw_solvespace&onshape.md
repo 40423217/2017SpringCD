@@ -1,7 +1,7 @@
 Title: Solvespace&Onshape四足機械獸 機械腿機構繪製
 Date: 2017-03-01 11:00
 Category: 40423217
-Tags: w2
+Tags: W2
 Author: yen
 
 使用py進行有效率的分組
