@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423217.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:00:00+08:00</updated><entry><title>Midterm_test_n2</title><link href="./midterm_test_n2.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./midterm_test_n2.html</id><summary type="html">&lt;p&gt;使用py進行有效率的分組
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423217.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T10:00:00+08:00</updated><entry><title>2017Spring_CD_Involute</title><link href="./2017spring_cd_involute.html" rel="alternate"></link><published>2017-05-31T10:00:00+08:00</published><updated>2017-05-31T10:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-05-31:./2017spring_cd_involute.html</id><summary type="html">&lt;p&gt;介紹課程大綱
+
+&lt;p&gt; 本單元是利用 SolveSpace 繪製 Involute &amp;amp; Involute_Gear &lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;利用 SolveSpace 繪製 Involute (漸開線)&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;SolveSpace_Involute_Part1&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;漸開線繪製原理說明 &lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219469177" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219469177"&gt;SolveSpace_Involute_Part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;SolveSpace_Involute_Part2&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;導入漸開線繪製出漸開線正齒輪&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219469185" width="640" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219469185"&gt;SolveSpace_Involute_Part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;利用 SolveSpace 繪製 Involute_Gear (漸開線齒輪)&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;SolveSpace_Involute_Gear_part1&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;漸開線齒輪 Data 建立，利用繪製漸開線時建立的 Data 完成漸開線齒輪繪製&lt;/p&gt;
+&lt;p&gt;模數&lt;/p&gt;
+&lt;p&gt;壓力角&lt;/p&gt;
+&lt;p&gt;齒數&lt;/p&gt;
+&lt;p&gt;(轉位係數)&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219546423" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219546423"&gt;SolveSpace_Involute_Gear_part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;SolveSpace_Involute_Gear_part2&lt;/p&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219546506" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219546506"&gt;SolveSpace_Involute_Gear_part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;</summary><category term="W13"></category></entry><entry><title>Midterm_test_n2</title><link href="./midterm_test_n2.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./midterm_test_n2.html</id><summary type="html">&lt;p&gt;使用py進行有效率的分組
 
 &lt;p&gt;Solvespace簡單四連趕機構---繪製&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/213774053" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/213774053"&gt;40423217_2017springcd_midterm_test_n2-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
